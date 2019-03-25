@@ -2,6 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+<body>
 <l>Tu veux bâtir des cités idéales,
 </l>
 <l>Détruis d’abord les monstruosités.
@@ -198,4 +199,5 @@
 </l>
 <l>Et de nos maux, hâtons la guérison
 </l>
+</body>
 </TEI>
